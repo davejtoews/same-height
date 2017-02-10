@@ -16,7 +16,7 @@ OR
 
 Then require this module within your javascript:
 
-    var SameHeight = require('../SameHeight.js');
+    var SameHeight = require('same-height');
 
 ## Basic Use
 
