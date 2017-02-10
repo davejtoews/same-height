@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "layout-queue": "^0.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jsdom": "^9.9.1",
+    "jsdom-global": "^2.1.1",
+    "mocha": "^3.2.0",
+    "mocha-jsdom": "^1.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "name": "same-height",
+  "description": "This library can be used to dynamically ensure all elements of a given CSS selector are rendered at the same height.",
+  "version": "0.1.0",
+  "main": "SameHeight.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davejtoews/same-height.git"
+  },
+  "keywords": [
+    "layout",
+    "queue",
+    "window",
+    "resize",
+    "same",
+    "height",
+    "media rule",
+    "media query"
+  ],
+  "author": "Dave Toews (http://davejtoews.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davejtoews/same-height/issues"
+  },
+  "homepage": "https://github.com/davejtoews/same-height#readme"
+}
