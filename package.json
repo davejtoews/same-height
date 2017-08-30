@@ -14,7 +14,7 @@
   },
   "name": "same-height",
   "description": "This library can be used to dynamically ensure all elements of a given CSS selector are rendered at the same height.",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "main": "SameHeight.js",
   "directories": {
     "test": "test"
